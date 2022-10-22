@@ -1,0 +1,6 @@
+[submodule "helpfy-frontend"]
+	path = helpfy-frontend
+	url = https://github.com/Helpfy/helpfy-frontend
+[submodule "helpfy-backend"]
+	path = helpfy-backend
+	url = https://github.com/Helpfy/helpfy-backend
